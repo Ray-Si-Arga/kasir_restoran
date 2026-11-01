@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nama": "Klepon",
+        "harga": 2000,
+        "jumlah": 0
+    },
+    {
+        "id": 2,
+        "nama": "Es blewah",
+        "harga": 8500,
+        "jumlah": 0
+    },
+    {
+        "id": 3,
+        "nama": "Makanan Berat",
+        "harga": 21500,
+        "jumlah": 0
+    }
+]
